@@ -1,0 +1,5 @@
+PREJUDICIAL DE MÉRITO
+
+PRESCRIÇÃO QUINQUENAL
+
+Em razão da arguição na contestação e como foi dado à parte autora a oportunidade de se manifestar, pronuncio a prescrição daquelas parcelas cujos direitos materiais correspondentes hajam sido violados em data anterior a {dados_extraidos.get('prescricao', 'Não informado')} (Constituição Federal, art. 7º, XXIX), razão pela qual o feito em relação a elas fica julgado extinto com resolução do mérito, na forma do art. 487, II, do CPC/2015.
